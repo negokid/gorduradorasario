@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    padding: 30px;
+    background-color: red;
+    font-size: large;
+    font-size: 32px;
+    color: aliceblue;
+}
+
+#comuna {
+    width: 100px;
+    height: 80px;
+}
+
+.container{
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    padding: 16px;
+    justify-content: space-between;
+
+}
+
+h2, p{
+    padding: 16px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+p{
+    font-size: 25px;
+}
+
+#pantera{
+    width: 300px ;
+}
+
+
+
+
+footer{
+    background-color: red;
+    padding: 45px;
+    font-size: 25px;
+    color: aliceblue;
+    text-align: center;
+}
