@@ -23,9 +23,8 @@ header {
     width: 100%;
     margin: 0 auto;
     display: flex;
-    padding: 16px;
+    padding: 30px;
     justify-content: space-between;
-
 }
 
 h2, p{
@@ -40,11 +39,15 @@ p{
     font-size: 25px;
 }
 
-#pantera{
-    width: 300px ;
+.menino {
+    height: 400px;
+    width: 1270px;  
 }
 
-
+.pantera {
+    height: 300px;
+    width: 1000px;
+}
 
 
 footer{
